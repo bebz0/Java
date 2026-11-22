@@ -1,0 +1,4 @@
+Java is a programming language. Many students learn Java at the university.
+The language is simple, but java programs can be big.
+A program in Java has classes, and every class has methods.
+Students like the language because it is used everywhere.
